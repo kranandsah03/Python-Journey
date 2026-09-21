@@ -1,0 +1,1 @@
+print ("Dear anand,\n\tthis python course is nice. \nthankyou!")
